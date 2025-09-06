@@ -6,3 +6,6 @@ There are two main types:
 > Raster data: Uses a grid of cells (pixels), where each cell has a value. Eg- Satellite images,Digital elevation models, Temperature maps
 
 Reffer to how KNN uses spatial data: https://medium.com/@milos.colic/scalable-spatial-nearest-neighbours-with-mosaic-336ce37edbae
+
+
+### Learning ER Diagrams:
