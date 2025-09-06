@@ -7,7 +7,7 @@ There are two main types:
 
 Reffer to how KNN uses spatial data: https://medium.com/@milos.colic/scalable-spatial-nearest-neighbours-with-mosaic-336ce37edbae
 
-
+/n
 
 ### Learning ER Diagrams:
 An ER diagram (short for Entity–Relationship diagram) is a type of visual diagram used in database design to show how data is structured and how different pieces of data relate to each other.
