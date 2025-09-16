@@ -14,3 +14,4 @@ An ER diagram (short for Entity–Relationship diagram) is a type of visual diag
 
 ![Alt Text](ER_Models/erd-symbols.jpg)
 
+
